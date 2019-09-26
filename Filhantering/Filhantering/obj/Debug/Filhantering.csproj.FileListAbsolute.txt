@@ -1,0 +1,7 @@
+C:\Users\wilhem.pantzar\source\repos\Filhantering\Filhantering\bin\Debug\Filhantering.exe.config
+C:\Users\wilhem.pantzar\source\repos\Filhantering\Filhantering\bin\Debug\Filhantering.exe
+C:\Users\wilhem.pantzar\source\repos\Filhantering\Filhantering\bin\Debug\Filhantering.pdb
+C:\Users\wilhem.pantzar\source\repos\Filhantering\Filhantering\obj\Debug\Filhantering.csprojAssemblyReference.cache
+C:\Users\wilhem.pantzar\source\repos\Filhantering\Filhantering\obj\Debug\Filhantering.csproj.CoreCompileInputs.cache
+C:\Users\wilhem.pantzar\source\repos\Filhantering\Filhantering\obj\Debug\Filhantering.exe
+C:\Users\wilhem.pantzar\source\repos\Filhantering\Filhantering\obj\Debug\Filhantering.pdb
